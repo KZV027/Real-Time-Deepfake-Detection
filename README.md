@@ -8,6 +8,10 @@ A Flask-based web application that allows users to upload an image and instantly
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 ---
+<img width="1311" alt="Screenshot 2025-05-01 at 11 49 10 AM" src="https://github.com/user-attachments/assets/a7ac07e4-911f-4d43-b5f8-516e57c104f8" />
+<img width="1512" alt="Screenshot 2025-04-28 at 10 00 42 AM" src="https://github.com/user-attachments/assets/10942056-d238-4346-bef3-8a9d0a3e84ef" />
+<img width="1512" alt="Screenshot 2025-04-25 at 7 34 11 PM" src="https://github.com/user-attachments/assets/11f8b316-58a0-4daf-8868-d4bb2d83eab0" />
+
 
 ## 🔍 Features
 
@@ -134,8 +138,10 @@ Feel free to [open an issue](https://github.com/KZV027/Real-Time-DeepFake-Detect
 
 ## 👤 Author
 
-**Kshitiz Verma** 
-**Kritika Singh** 
+**Kshitiz Verma**
+
+**Kritika Singh**
+
 B.Tech CSE | Babu Banarasi Das University  
 GitHub: [KZV027](https://github.com/KZV027)
 Github: [Kritka2121](https://github.com/Kritika2121)
