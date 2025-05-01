@@ -1,0 +1,7 @@
+Flask
+tensorflow
+scikit-learn
+numpy
+pillow
+opencv-python
+pickle5

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head><title>Upload History</title></head>
+<body style="font-family:sans-serif;">
+    <h2>Deepfake Detection History</h2>
+    <table border="1" cellpadding="10">
+        <tr><th>ID</th><th>Filename</th><th>Label</th><th>Timestamp</th></tr>
+        {% for row in rows %}
+        <tr>
+            <td>{{ row[0] }}</td>
+            <td>{{ row[1] }}</td>
+            <td>{{ row[2] }}</td>
+            <td>{{ row[3] }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
